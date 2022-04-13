@@ -1,2 +1,2 @@
-# blackjack
-Blackjack card game using Deck of Cards API
+# War-Game
+# Blackjack card game
